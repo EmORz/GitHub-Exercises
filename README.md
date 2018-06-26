@@ -1,7 +1,8 @@
 # GitHub-Exercises
-Repository for tech modul exercises
-
-GitHub Update
-another text commands
+No.
+1. Repository for tech modul exercises
+2. GitHub Update
+3. another text commands
 /////////////////////////////////////
-message for P!?
+4. message for P!?
+
